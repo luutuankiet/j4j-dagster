@@ -8,3 +8,7 @@ A demo to surface all dbt - looker assets for a given project. Some docs:
 - Clone the dbt repo to the root of this project.
 - Create venv & pip install requirements.
 - Run `dagster dev` to start the dagster server.
+
+
+## demo
+![image](https://github.com/user-attachments/assets/18d99255-bfff-4073-9a6e-cbb3c5f36248)
